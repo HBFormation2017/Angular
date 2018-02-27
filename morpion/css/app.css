@@ -1,0 +1,72 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+}
+
+h1, span {
+    text-align: center;
+}
+
+div.infos {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+div.infos span {
+    flex: 1;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+    margin-top: 50px;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+footer {
+    padding: 50px;
+}
+
+td > div {
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    margin: auto;
+    height: 80%;
+    width: 80%;
+}
+
+td > div.red {
+    border: 4px solid #c0392b;
+}
+
+td > div.blue {
+    background-color: #4aa3df;
+}
+
+span.red {
+    border: 2px solid #c0392b;
+
+}
+
+span.blue {
+    border: 2px solid #4aa3df;
+}
+
+#results {
+    display: none;
+}
+
+button {
+    cursor: pointer;
+}

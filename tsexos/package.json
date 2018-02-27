@@ -1,0 +1,7 @@
+{
+  "name": "tsexos", "version": "0.0.1", "description": "Exercice TS", "main": "index.js", "scripts": {
+    "start": "tsc"
+  }, "author": "", "license": "MIT", "dependencies": {
+    "typescript": "^2.7.2"
+  }
+}
