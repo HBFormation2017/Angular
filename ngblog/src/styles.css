@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Pacifico&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Cookie|Pacifico&subset=cyrillic');
+
+* {
+    /*font-family: 'Pacifico', cursive;*/
+    font-family: 'Cookie', cursive;
+    font-size: 18pt;
+}

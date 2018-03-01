@@ -5,3 +5,18 @@ body {
     padding: 3rem 1.5rem;
     text-align: center;
   }
+
+ .bg-light {
+    background-color: #b2bec3 !important;
+}
+
+.btn-outline-success {
+  color: #fff;
+  border-color: #55efc4;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #00b894;
+    border-color: #55efc4;
+}

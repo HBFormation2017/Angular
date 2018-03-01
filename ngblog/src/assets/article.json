@@ -1,0 +1,30 @@
+[
+{
+    "id": 0,
+    "title": "Article n°1",
+    "description": "Mon article numéro 1 le meilleur de tous les articles puisque c'est le premier...",
+    "author": "David",
+    "date": "28-02-2018"
+},
+{
+    "id": 1,
+    "title": "Article n°2",
+    "description": "Mon article numéro 2 le meilleur de tous les articles puisque c'est le second...",
+    "author": "David",
+    "date": "28-02-2018"
+},
+{
+    "id": 2,
+    "title": "Article n°3",
+    "description": "Mon article numéro 3 le meilleur de tous les articles puisque c'est le troisième...",
+    "author": "David",
+    "date": "28-02-2018"
+},
+{
+    "id": 3,
+    "title": "Article n°4",
+    "description": "Mon article numéro 4 le meilleur de tous les articles puisque c'est le quatrième...",
+    "author": "David",
+    "date": "28-02-2018"
+}
+]
